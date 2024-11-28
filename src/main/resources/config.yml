@@ -1,0 +1,43 @@
+###################################
+#         Aizsffects Plugin       #
+#           By PingLagger          #
+#           Version 1.0           #
+###################################
+
+Prefix: '&5&lAizs&f&lEffects &7-'
+
+# Reload Message
+ReloadMessage: '&a&lConfiguration successful reloaded!'
+
+# Speed Messages
+SpeedEnable: '&7You have &aenabled &7the Speed effect!'
+SpeedDisable: '&7You have &cdisabled &7the Speed effect!'
+SpeedLevel: '1'
+
+# Haste Messages
+HasteEnable: '&7You have &aenabled &7the Haste effect!'
+HasteDisable: '&7You have &cdisabled &7the Haste effect!'
+HasteLevel: '1'
+
+# FireRes Messages
+FireResEnable: '&7You have &aenabled &7the Fire Resistance effect!'
+FireResDisable: '&7You have &cdisabled &7the Fire Resistance effect!'
+FireResLevel: '1'
+
+# NigthVision Messages
+NigthVisionEnable: '&7You have &aenabled &7the NigthVision effect!'
+NightVisionDisable: '&7You have &cdisabled &7the NigthVision effect!'
+NightVisionLevel: '1'
+
+# Help Message
+Help:
+  - '&5&lAizs&f&lEffects'
+  - '&m--------------------------'
+  - '&dCommands:'
+  - '&m--------------------------'
+  - '&d/speed > Gives you speed effect'
+  - '&d/fres > Gives you fireresistance effect'
+  - '&d/nv > Gives you night vision effect'
+  - '&d/haste > Gives you haste effect'
+  - '&d/help > Show''s you this command'
+  - '&m--------------------------'

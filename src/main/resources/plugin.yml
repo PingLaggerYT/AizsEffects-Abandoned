@@ -1,0 +1,6 @@
+name: AizsEffects
+version: 1.0
+main: me.pinglagger.Effect
+api-version: 1.16
+authors: [DevSeppe]
+description: Basic Effect Plugin
